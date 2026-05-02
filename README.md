@@ -7,9 +7,11 @@ A procedural generation tool for hair transplant planning and hairline design. T
 
 
 ![Hairline Generation Example 1](figures/Screenshot_from_2026-05-02_21-13-47.png)
+
 *Example of procedural hairline generation with density variation.*
 
 ![Hairline Generation Example 2](figures/Screenshot_from_2026-05-02_21-15-14.png)
+
 *Interactive Bezier curve controls for shaping the hairline.*
 
 ---
