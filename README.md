@@ -6,10 +6,10 @@ A procedural generation tool for hair transplant planning and hairline design. T
 
 Here are a couple of screenshots showcasing the interactive UI and the results of the algorithmic hairline generation:
 
-![Hairline Generation Example 1](figures/Screenshot from 2026-05-02 21-13-47.png)
+![Hairline Generation Example 1](https://raw.githubusercontent.com/arkalibaig/Algorithmic-Hairline-Reconstruction/main/figures/Screenshot from 2026-05-02 21-13-47.png)
 *Example of procedural hairline generation with density variation.*
 
-![Hairline Generation Example 2](figures/Screenshot from 2026-05-02 21-15-14.png)
+![Hairline Generation Example 2](https://raw.githubusercontent.com/arkalibaig/Algorithmic-Hairline-Reconstruction/main/figures/Screenshot from 2026-05-02 21-15-14.png)
 *Interactive Bezier curve controls for shaping the hairline.*
 
 
