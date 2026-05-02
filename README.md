@@ -1,6 +1,17 @@
-# ALHR Algorithmic Hairline Reconstruction
+# Algorithmic-Hairline-Reconstruction
 
 A procedural generation tool for hair transplant planning and hairline design. This project leverages advanced algorithms like Poisson Disk Sampling and Bezier curves to simulate natural hair follicle distributions and create aesthetically pleasing hairlines.
+
+## Project Screenshots
+
+Here are a couple of screenshots showcasing the interactive UI and the results of the algorithmic hairline generation:
+
+![Hairline Generation Example 1](figures/Screenshot from 2026-05-02 21-13-47.png)
+*Example of procedural hairline generation with density variation.*
+
+![Hairline Generation Example 2](figures/Screenshot from 2026-05-02 21-15-14.png)
+*Interactive Bezier curve controls for shaping the hairline.*
+
 
 ## Project Goal
 To provide a flexible and intuitive tool for designing natural-looking hairlines, assisting in the planning phase of hair transplant procedures.
@@ -26,7 +37,7 @@ To provide a flexible and intuitive tool for designing natural-looking hairlines
 This is a client-side web application.
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/arkalibaig/alhr.git
+    git clone https://github.com/arkalibaig/Algorithmic-Hairline-Reconstruction.git
     cd alhr
     ```
 2.  Open the main HTML file (`alhr.html`) in your web browser. No server-side setup is required.
