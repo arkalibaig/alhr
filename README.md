@@ -4,7 +4,7 @@ A procedural generation tool for hair transplant planning and hairline design. T
 
 ### **Project Screenshots**
 
-> **Note:** Using relative paths is more robust for GitHub previews.
+
 
 ![Hairline Generation Example 1](figures/Screenshot_from_2026-05-02_21-13-47.png)
 *Example of procedural hairline generation with density variation.*
